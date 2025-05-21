@@ -1,0 +1,25 @@
+# Compiled files
+*.class
+
+# Package files
+*.jar
+*.war
+*.zip
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+
+# Mac files
+.DS_Store
+
+# Compilation output directories
+bin/
+build/
+out/
